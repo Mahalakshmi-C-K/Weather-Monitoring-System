@@ -49,6 +49,7 @@ const fetchWeatherData = async (city) => {
     event.preventDefault();
     console.log("Submitting city:", city); // Log city name
     fetchWeatherData(city);
+    console.log("the ")
   };
 
   return (
