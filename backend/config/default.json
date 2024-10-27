@@ -1,0 +1,6 @@
+{
+    "apiKey": "https://openweathermap.org/",
+    "dbURI": "mongodb://localhost:27017/weather-app",
+    "pollInterval": 300000
+  }
+  
